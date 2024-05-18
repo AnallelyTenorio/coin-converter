@@ -10,7 +10,7 @@ El Conversor de Moneda es una aplicación que permite a los usuarios convertir e
 
 ## Tecnología
 
-- Java
+- Java openjdk 22
 - API de exchangeRate-api.com
 
 ## Instalación
